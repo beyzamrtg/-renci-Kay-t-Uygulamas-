@@ -1,5 +1,5 @@
 Öğrenci ve Ders Kayıt Uygulaması
-Bu uygulama, öğrenci ve ders kayıtlarını tutan bir Java Swing uygulamasıdır. Uygulama, kullanıcıya ders kaydı ve öğrenci kaydı yapma imkanı sunar. Ayrıca, ders adlarını içeren bir dosyadan ders bilgilerini çeker ve öğrenci kaydı yapılırken bu derslerden seçim yapılmasını sağlar.
+Bu uygulama, öğrenci ve ders kayıtlarını tutan bir Java Swing uygulamasıdır. Uygulama, kullanıcıya ders kaydı ve öğrenci kaydı yapma imkanı sunar. Ayrıca, ders adlarını içeren bir dosyadan ders bilgilerini çeker ve öğrenci kaydı yapılırken bu derslerden seçim yapılmasını sağlar.Bu uygulama Intellij ideada yazılmıştır.
 
 Ders Kayıt Formu (DersKayitFormu)
 Bu form, kullanıcıdan ders kodu, ders adı ve ders dönemi bilgilerini alır. Kullanıcı, "Kaydet" butonuna tıkladığında, girilen bilgileri içeren bir Ders nesnesi oluşturulur ve bu bilgiler bir metin dosyasına kaydedilir. Form, kullanıcıya hata durumları hakkında bilgi vermez.

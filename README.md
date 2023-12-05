@@ -1,2 +1,2 @@
-# -renci-Kay-t-Uygulamas-
+# Öğrenci Kayıt-
 proje

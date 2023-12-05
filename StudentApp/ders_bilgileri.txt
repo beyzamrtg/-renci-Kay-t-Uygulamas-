@@ -1,0 +1,8 @@
+Ders Kodu: 123, Ders Adı: Matematik, Ders Dönemi: 2
+Ders Kodu: 345, Ders Adı: fizik, Ders Dönemi: 5
+Ders Kodu: 123, Ders Adı: fels, Ders Dönemi: 3
+Ders Kodu: 24r, Ders Adı: r4r5, Ders Dönemi: 2r
+Ders Kodu: 12, Ders Adı: fai, Ders Dönemi: 4
+Ders Kodu: 12, Ders Adı: bgnvguıergbneuoıg, Ders Dönemi: 4
+Ders Kodu: 12, Ders Adı: bgnvguıergbneuoıg, Ders Dönemi: 4
+Ders Kodu: 1343, Ders Adı: beyza, Ders Dönemi: 4324

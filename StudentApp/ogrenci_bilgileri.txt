@@ -1,0 +1,2 @@
+Öğrenci No: 2345, Ad: Beyza, Soyad: Muratoğlu, Bölüm: BIP, Seçili Models.Ders: [Models.Ders@2fc20ad8], 
+Öğrenci No: 23r23r, Ad: 23r, Soyad: 23r2, Bölüm: 23r, Seçili Ders: [Models.Ders@13ceed0f], 
